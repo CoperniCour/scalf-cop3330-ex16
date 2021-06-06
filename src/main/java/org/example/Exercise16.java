@@ -3,7 +3,7 @@
  *  Copyright 2021 Courtney Scalf-Crickenberger
  */
 
-//Exercise 15 - Password validation
+//Exercise 16 - Legal Driving Age
 
 package org.example;
 
